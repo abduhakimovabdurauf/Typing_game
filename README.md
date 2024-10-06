@@ -17,6 +17,6 @@ Technologies Used
 **CSS**
 **JavaScript**
 
-**Installation:** git clone https://github.com/your-username/typing-game.git
+**Installation:** git clone https://github.com/abduhakimovabdurauf/Typing_game.git
 
 **Demo:** https://abduhakimovabdurauf.github.io/Typing_game/
